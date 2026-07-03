@@ -1,0 +1,10 @@
+Raghavendra Lankelapalli
+
+Email: raghavendralankelapalli@gmail.com
+Phone: +91 6308844589
+
+Skills:
+Python
+SQL
+Flask
+Machine Learning
